@@ -1,0 +1,45 @@
+# Android
+/build/
+/android/app/build/
+/android/gradle/
+/.gradle/
+/local.properties
+/.idea/
+
+# iOS
+/ios/Pods/
+/ios/Podfile.lock
+/ios/Flutter/Flutter.framework/
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/App.framework/
+/ios/Flutter/Flutter.xcframework/
+/ios/Flutter/ephemeral/Flutter.framework/
+
+# macOS-specific files
+.DS_Store
+
+# Flutter-specific
+/.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pubspec.lock
+
+# Generated files
+*.iml
+*.log
+*.idea
+*.metadata
+*.flutter-plugins
+*.flutter-plugins-dependencies
+*.g.dart
+*.symlink
+
+# Dependency Management
+.idea/
+*.iml
+*.lock
+*.xcworkspace
+*.podfile
+*.podfile.lock
